@@ -53,6 +53,7 @@ hr{
 }
 
 .profile-image{
+  width:50%;
   border-radius: 50%;
 }
 
@@ -64,13 +65,13 @@ hr{
 }
 
 .code-img{
-  width:30%;
+  width:40%;
   float:left;
   margin-right: 30px;
 }
 
 .chilli-img{
-  width:30%;
+  width:40%;
   float: right;
   margin-left: 30px;
 }
@@ -114,7 +115,7 @@ a:hover{
 
 .top-cloud{
   position:absolute;
-  left:1100px;
+  left:110px;
   top:100px;
 }
 .copyright{
